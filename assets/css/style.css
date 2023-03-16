@@ -34,17 +34,18 @@ html
 }
 
 .bg-title {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    background-image: url("assets/img/introC.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+    color: white;
 }
 
 .bg-title-txt {
   position: absolute;
   top: 30%;;
   left: 50%;
-  color: white;
   transform: translate(-50%, -50%);
 }
 
