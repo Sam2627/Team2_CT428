@@ -39,7 +39,7 @@ html
     position: relative;
     text-align: center;
     background-repeat: no-repeat;
-    color: rgb(255, 255, 255);
+    color: blue;
 }
 
 .bg-title-txt{
@@ -48,6 +48,13 @@ html
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     top: 35%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .members
