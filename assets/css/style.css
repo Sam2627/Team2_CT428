@@ -15,7 +15,7 @@ html
     width: 100%;
     height: 550px;
     position: relative;
-    background-image: url(introc.png);
+    background-image: url(assets/img/introc.png);
     background-size: 100% 100%;
     background-repeat: no-repeat    ;
     color: rgb(255, 255, 255);
