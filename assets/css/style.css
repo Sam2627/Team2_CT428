@@ -46,6 +46,19 @@ html
     top: 35%;
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .members
 {
     margin-top: 3px;
