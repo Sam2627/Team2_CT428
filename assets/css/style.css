@@ -36,6 +36,9 @@ html
     position: relative;
     text-align: center;
     color: white;
+    
+    background-image: url("assets/img/introC.png");
+    
 }
 
 .bg-title-txt {
