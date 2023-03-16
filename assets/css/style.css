@@ -33,19 +33,6 @@ html
     left: 100px;
 }
 
-.bg-title{
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.bg-title-txt{
-    font-size: 200%;
-    
-    position: absolute;
-    top: 35%;
-}
-
 .bg-title {
   display: block;
   margin-left: auto;
@@ -57,6 +44,7 @@ html
   position: absolute;
   top: 30%;;
   left: 50%;
+  color: white;
   transform: translate(-50%, -50%);
 }
 
