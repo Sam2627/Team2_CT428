@@ -34,33 +34,16 @@ html
 }
 
 .bg-title{
-    width: 100%;
-    height: 550px;
-    position: relative;
-    text-align: center;
-    background-repeat: no-repeat;
-    color: blue;
-}
-
-.bg-title-txt{
-    text-align: left;
-    font-size: 300%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: absolute;
-    top: 35%;
-}
-
-.container {
   position: relative;
   text-align: center;
   color: white;
 }
 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.bg-title-txt{
+    font-size: 300%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 35%;
 }
 
 .members
