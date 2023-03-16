@@ -16,7 +16,6 @@ html
     height: 550px;
     position: relative;
     background-image: url("image/introC.png");
-    background-size: 100% 100%;
     background-repeat: no-repeat;
     color: rgb(255, 255, 255);
 }
@@ -34,19 +33,18 @@ html
 }
 
 .bg-title {
-    background-image: url("assets/img/introC.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
     position: relative;
     text-align: center;
     color: white;
 }
 
 .bg-title-txt {
-  position: absolute;
-  top: 30%;;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .members
