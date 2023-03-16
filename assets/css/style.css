@@ -11,17 +11,6 @@ html
 }
 
 .intro
-{
-    width: 100%;
-    height: 550px;
-    position: relative;
-    background-image: url("../image/introC.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat    ;
-    color: rgb(255, 255, 255);
-}
-
-.intro #introb
 { 
     height:250px;
     width: 610px;
@@ -31,6 +20,17 @@ html
     position: absolute;
     top: 35%;
     left: 100px;
+}
+
+.intro #introb
+{
+    width: 100%;
+    height: 550px;
+    position: relative;
+    background: url("../image/introC.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat    ;
+    color: rgb(255, 255, 255);
 }
 
 .members
