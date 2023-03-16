@@ -50,6 +50,12 @@ html
     top: 35%;
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 .centered {
   position: absolute;
   top: 50%;
